@@ -1,4 +1,7 @@
-## Hi there 👋
+# We're Digital Creative. A Shanghai-based Digital Product & Experience Agency
+## We build powerful systems using Laravel
+## We build interactive mobile apps using Flutter
+## We build engaging web apps using Vue.js
 
 <!--
 
