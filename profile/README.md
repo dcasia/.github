@@ -1,4 +1,4 @@
-We're Digital Creative  [GitHub Pages](https://en.digitalcreative.cn/).
+We're [Digital Creative](https://en.digitalcreative.cn/).
 
 # A Digital Product & Experience Agency in Shanghai building
 ## Powerful systems using Laravel 🚀
