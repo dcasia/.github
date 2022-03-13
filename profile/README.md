@@ -1,5 +1,5 @@
-We're Digital Creative. 
-# A Shanghai-based Digital Product & Experience Agency
+We're Digital Creative 
+# A Digital Product & Experience Agency in Shanghai
 ## We build powerful systems using Laravel
 ## We build interactive mobile apps using Flutter
 ## We build engaging web apps using Vue.js
