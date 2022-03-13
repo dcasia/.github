@@ -1,10 +1,11 @@
 We're [Digital Creative](https://en.digitalcreative.cn/).
 
-# A Digital Product & Experience Agency in Shanghai building
+# A Digital Product & Experience Agency in Shanghai
+Working with innovative startups & fortune 500 companies to build
 ## Powerful systems using Laravel 🚀
 ## Interactive mobile apps using Flutter ⚡
 ## Engaging web apps using Vue.js 👀
-For the worlds most innovative companies.
+
 <!--
 
 **Here are some ideas to get you started:**
