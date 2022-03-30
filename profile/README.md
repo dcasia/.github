@@ -4,7 +4,7 @@
 ###### Working with innovative startups & fortune 500 companies to design & build
 ## Powerful systems using Laravel 🚀
 ## Interactive mobile apps using Flutter ⚡
-## Engaging web apps using Vue.js 👀
+## Engaging web apps using Vue.js & React  👀
 
 - [What we do](https://en.digitalcreative.cn/what-we-do/)
 - [About us](https://en.digitalcreative.cn/about)
