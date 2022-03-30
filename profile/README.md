@@ -1,6 +1,6 @@
 ###### We're [Digital Creative](https://en.digitalcreative.cn/).
 
-# A Digital Product Agency in Shanghai, China
+# We build digital products in Shanghai, China
 ###### Working with innovative startups & fortune 500 companies to design & build
 ## Powerful systems using Laravel 🚀
 ## Interactive mobile apps using Flutter ⚡
