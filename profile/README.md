@@ -1,4 +1,4 @@
-###### We're [Digital Creative](https://en.digitalcreative.cn/).
+###### We're [Digital Creative](https://digitalcreative.cn/).
 
 # We build digital products in Shanghai, China
 ###### Working with innovative startups & fortune 500 companies to design & build
@@ -6,9 +6,9 @@
 ## Interactive mobile apps using Flutter ⚡
 ## Engaging web apps using Vue.js & React  👀
 
-- [What we do](https://en.digitalcreative.cn/what-we-do/)
-- [About us](https://en.digitalcreative.cn/about)
-- [Contact us](https://en.digitalcreative.cn/contact)
+- [What we do](https://digitalcreative.cn/what-we-do/)
+- [About us](https://digitalcreative.cn/about)
+- [Contact us](https://digitalcreative.cn/contact)
 
 ### We love open source ❤️
 We're passtionate about contributing to open source projects. Not only do we believe in giving back to the communities that taught us so much, we believe it makes us better developers. 
