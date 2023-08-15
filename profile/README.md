@@ -11,7 +11,7 @@
 - [Contact us](https://digitalcreative.cn/contact)
 
 ### We love open source ❤️
-We're passtionate about contributing to open source projects. Not only do we believe in giving back to the communities that taught us so much, we believe it makes us better developers. 
+We're passionate about contributing to open source projects. Not only do we believe in giving back to the communities that taught us so much, we believe it makes us better developers. 
 
 
 <!--
